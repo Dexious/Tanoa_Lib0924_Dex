@@ -20,6 +20,7 @@ Tanoa has fallen to the CSAT forces and it is up to you to take it back. Embark 
 ## Media:
 
 [Gameplay Footage] = (https://www.youtube.com/watch?v=Dji0I1K6CdQ&list=PLhipAgEJU9WQqV3tZ_jm6T91YciQtD-fv&index=1)
+
 [Quick Start Tutorial] = (https://www.youtube.com/watch?v=jC9sk7AzHAY)
 
 ## Follow the development:
